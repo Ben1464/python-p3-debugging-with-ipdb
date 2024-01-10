@@ -3,5 +3,5 @@
 import ipdb
 
 def plus_two(num):
-    num + 2
+    num = num + 2  # Update the value of num by assigning the result back to num
     return num
